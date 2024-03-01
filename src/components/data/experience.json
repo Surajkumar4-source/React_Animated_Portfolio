@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "role": "Intern at Satcom Infotech",
+    "organisation": "Google",
+    "startDate": "Sept, 2023",
+    "endDate": "Present ,",
+    "location": "Jammu",
+    "experiences": [
+      "Working on Data Science"
+      
+    ],
+    "imageSrc": "company/satcom.png"
+  },
+  {
+    "id": 2,
+    "role": "Ex-Intern at Ladybird Web Solution Pvt Ltd",
+    "organisation": "Ladybird Web Solution Pvt Ltd ",
+    "startDate": "June 2023",
+    "endDate": " , July 2023",
+    "location": " , Jammu",
+    "experiences": [
+      "Worked on Front-end Technologies",
+      "Like HTML CSS JAVASCRIPT REACT"
+    ],
+    "imageSrc": "company/ladybird.png"
+  }
+
+]
+
+

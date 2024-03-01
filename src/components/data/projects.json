@@ -1,0 +1,51 @@
+[
+  {
+    "key": 1,
+    "title": "React_Recipe_WebApp",
+    "imageSrc": "https://media.istockphoto.com/id/922783734/photo/assorted-indian-recipes-food-various.jpg?b=1&s=612x612&w=0&k=20&c=E3vvDbtewANz5LzhBrQn0raezKaATj6aeOPWlxYn4ZE=",
+    "description": "This React Recipe App is designed to help users explore and discover various recipes.",
+    "demo": "https://recipe-website-git-master-suraj-kumar-choudharys-projects.vercel.app/",
+    "source": "https://github.com/Surajkumar4-source/React_Recipe_Website"
+  },
+  {
+    "key": 2,
+    "title": "CRUD App",
+    "imageSrc": "https://www.codestoresolutions.com/wp-content/uploads/2023/08/crud.webp",
+    "description": "This React CRUD (Create, Read, Update, Delete) is a simple web application for managing user data.",
+    "demo": "https://crud-app-eight-sooty.vercel.app/",
+    "source": "https://github.com/Surajkumar4-source/CRUD-APP"
+  },
+  {
+    "key": 3,
+    "title": "Paytm Clone",
+    "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
+    "description": "This is a Paytm UI Clone, a simple web application built to improve the responsiveness",
+    "demo": "https://antiperiodic-delimi.000webhostapp.com/",
+    "source": "https://github.com/Surajkumar4-source/Paytm-UI-Clone"
+  },
+  {
+    "key": 4,
+    "title": "IPL-PREDICTION-ANALYSIS",
+    "imageSrc": "https://static.toiimg.com/thumb/msid-99118473,imgsize-145866,width-400,resizemode-4/99118473.jpg",
+    "description": "This Project implements a simple IPL win prediction model using machine learning",
+    "demo": "https://github.com/Surajkumar4-source/IPL-PREDICTION-ANALYSIS",
+    "source": "https://github.com/Surajkumar4-source/IPL-PREDICTION-ANALYSIS"
+  },
+  {
+    "key": 4,
+    "title": "Inventory_Billing_System",
+    "imageSrc": "https://c0.wallpaperflare.com/preview/954/332/891/pay-bill-invoice-template.jpg",
+    "description": "This Project implements a simple IPL win prediction model using machine learning",
+    "demo": "https://surajkumar4-source.github.io/Product_Inventory_Billing_System/",
+    "source": "https://github.com/Surajkumar4-source/Product_Inventory_Billing_System"
+  }, {
+    "key": 4,
+    "title": "Static-Gym-Website",
+    "imageSrc": "https://i.pinimg.com/736x/1b/a3/89/1ba389706684f84900f7cb4665508dab.jpg",
+    "description": "This Project implements a simple IPL win prediction model using machine learning",
+    "demo": "https://surajkumar4-source.github.io/Static-Gym-Website/",
+    "source": "https://github.com/Surajkumar4-source/Static-Gym-Website"
+  }
+  
+
+]
