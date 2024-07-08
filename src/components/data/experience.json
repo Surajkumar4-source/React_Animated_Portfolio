@@ -1,19 +1,33 @@
 [
   {
     "id": 1,
-    "role": "Intern at Satcom Infotech",
+    "role": "AI ML Intern (WBL) at NIELIT",
     "organisation": "Google",
-    "startDate": "Sept, 2023",
+    "startDate": "Feb, 2024",
     "endDate": "Present ,",
     "location": "Jammu",
     "experiences": [
-      "Working on Data Science"
+      "Working on AI ML"
+      
+    ],
+    "imageSrc": "company/NIELIT_LOGO.png"
+  },
+
+  {
+    "id": 2,
+    "role": "Ex-Intern at Satcom Infotech",
+    "organisation": "Google",
+    "startDate": "Sept, 2023",
+    "endDate": "Oct,2023 ,",
+    "location": "Jammu",
+    "experiences": [
+      "Worked on Data Science"
       
     ],
     "imageSrc": "company/satcom.png"
   },
   {
-    "id": 2,
+    "id": 3,
     "role": "Ex-Intern at Ladybird Web Solution Pvt Ltd",
     "organisation": "Ladybird Web Solution Pvt Ltd ",
     "startDate": "June 2023",
@@ -25,7 +39,9 @@
     ],
     "imageSrc": "company/ladybird.png"
   }
+  
 
 ]
+
 
 
