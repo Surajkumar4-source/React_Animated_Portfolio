@@ -1,7 +1,7 @@
 [
   {
     "key": 1,
-    "title": "React_Recipe_WebApp",
+    "title": "React Recipe WebApp",
     "imageSrc": "https://media.istockphoto.com/id/922783734/photo/assorted-indian-recipes-food-various.jpg?b=1&s=612x612&w=0&k=20&c=E3vvDbtewANz5LzhBrQn0raezKaATj6aeOPWlxYn4ZE=",
     "description": "This React Recipe App is designed to help users explore and discover various recipes.",
     "demo": "https://recipe-website-git-master-suraj-kumar-choudharys-projects.vercel.app/",
@@ -25,26 +25,49 @@
   },
   {
     "key": 4,
-    "title": "IPL-PREDICTION-ANALYSIS",
+    "title": "IPL PREDICTION ANALYSIS",
     "imageSrc": "https://static.toiimg.com/thumb/msid-99118473,imgsize-145866,width-400,resizemode-4/99118473.jpg",
     "description": "This Project implements a simple IPL win prediction model using machine learning",
     "demo": "https://github.com/Surajkumar4-source/IPL-PREDICTION-ANALYSIS",
     "source": "https://github.com/Surajkumar4-source/IPL-PREDICTION-ANALYSIS"
   },
   {
-    "key": 4,
-    "title": "Inventory_Billing_System",
+    "key": 5,
+    "title": "Inventory Billing System",
     "imageSrc": "https://c0.wallpaperflare.com/preview/954/332/891/pay-bill-invoice-template.jpg",
-    "description": "This Project implements a simple IPL win prediction model using machine learning",
+    "description": "This Project implements a fast and effective means to handle financial transactions, billing, and revenue",
     "demo": "https://surajkumar4-source.github.io/Product_Inventory_Billing_System/",
     "source": "https://github.com/Surajkumar4-source/Product_Inventory_Billing_System"
   }, {
-    "key": 4,
-    "title": "Static-Gym-Website",
+    "key": 6,
+    "title": "Static Gym Website",
     "imageSrc": "https://i.pinimg.com/736x/1b/a3/89/1ba389706684f84900f7cb4665508dab.jpg",
-    "description": "This Project implements a simple IPL win prediction model using machine learning",
+    "description": "This Project implements a simple website for a gym, where users can book classes, view the schedule.",
     "demo": "https://surajkumar4-source.github.io/Static-Gym-Website/",
     "source": "https://github.com/Surajkumar4-source/Static-Gym-Website"
+  },
+  {
+    "key": 7,
+    "title": " Stock Price Predictor App",
+    "imageSrc": "https://cdn.pixabay.com/photo/2016/12/13/22/15/chart-1905224_1280.jpg",
+    "description": "This Project implement a real-time data delivers captivating insights into stock market trends.",
+    "demo": "https://github.com/Surajkumar4-source/Stock-Price-Predictor-App",
+    "source": "https://github.com/Surajkumar4-source/Stock-Price-Predictor-App"
+  }, {
+    "key": 8,
+    "title": "Flipkart Clone",
+    "imageSrc": "https://i.pinimg.com/originals/eb/9f/37/eb9f3772c2d90203412a221d6cf044b1.png",
+    "description": "This Project implements a responsive design for the popular e-commerce website Flipkart",
+    "demo": "https://surajkumar4-source.github.io/Flipkart-Clone/",
+    "source": "https://github.com/Surajkumar4-source/Flipkart-Clone"
+  },
+  {
+    "key": 9,
+    "title": "Weather web App",
+    "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyncLqr8CUjxGDsSYKu_83WBtlfatfjt92EA&s",
+    "description": "This Project implement a weather forecasting web app using the OpenWeather API",
+    "demo": "https://surajkumar4-source.github.io/weather-web-App/",
+    "source": "https://github.com/Surajkumar4-source/weather-web-App"
   }
   
 
