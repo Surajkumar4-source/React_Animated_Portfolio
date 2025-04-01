@@ -1,5 +1,37 @@
 [
   {
+    "title": "LINUX",
+    "imageSrc": "skills/linux1.png"
+  },
+  {
+    "title": "HPC",
+    "imageSrc": "skills/hpc1.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker2.png"
+  },
+  {
+    "title": "Kubernetes",
+    "imageSrc": "skills/k8.png"
+  },
+  {
+    "title": "Cloud",
+    "imageSrc": "skills/aws3.png"
+  },
+  {
+    "title": "Monitoring ",
+    "imageSrc": "skills/gg.png"
+  },
+  {
+    "title": "Networking ",
+    "imageSrc": "skills/nw.png"
+  },
+  {
+    "title": "Hadoop ",
+    "imageSrc": "skills/hadoop1.png"
+  },
+  {
     "title": "HTML",
     "imageSrc": "skills/html.png"
   },
@@ -39,5 +71,4 @@
     "title": "Github",
     "imageSrc": "skills/github3.png"
   }
-
 ]
