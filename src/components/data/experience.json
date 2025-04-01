@@ -1,24 +1,38 @@
 [
   {
     "id": 1,
+    "role": "Project Engineer",
+    "organisation": "CDAC",
+    "startDate": "Mar, 2025",
+    "endDate": "Present ,",
+    "location": "Pune",
+    "experiences": [
+      "HPC AI"
+      
+    ],
+    "imageSrc": "company/cdac.png"
+  },
+
+  {
+    "id": 2,
     "role": "AI ML Intern (WBL) at NIELIT",
     "organisation": "Google",
-    "startDate": "Feb, 2024",
-    "endDate": "Present ,",
+    "startDate": "Feb 2024 ,",
+    "endDate": "AUG 2024",
     "location": "Jammu",
     "experiences": [
       "Working on AI ML"
       
     ],
-    "imageSrc": "company/NIELIT_LOGO.png"
+    "imageSrc": "company/nielit.png"
   },
 
   {
-    "id": 2,
+    "id": 3,
     "role": "Ex-Intern at Satcom Infotech",
     "organisation": "Google",
-    "startDate": "Sept, 2023",
-    "endDate": "Nov,2023 ,",
+    "startDate": "SEPT  2023 ,",
+    "endDate": "OCT 2023",
     "location": "Jammu",
     "experiences": [
       "Worked on Data Science"
@@ -27,12 +41,12 @@
     "imageSrc": "company/satcom.png"
   },
   {
-    "id": 3,
+    "id": 4,
     "role": "Ex-Intern at Ladybird Web Solution Pvt Ltd",
     "organisation": "Ladybird Web Solution Pvt Ltd ",
-    "startDate": "June 2023",
-    "endDate": " , July 2023",
-    "location": " , Jammu",
+    "startDate": "June 2023 ,",
+    "endDate": "July 2023",
+    "location": "Jammu",
     "experiences": [
       "Worked on Front-end Technologies",
       "Like HTML CSS JAVASCRIPT REACT"
@@ -42,6 +56,5 @@
   
 
 ]
-
 
 
