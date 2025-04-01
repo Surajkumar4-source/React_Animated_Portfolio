@@ -8,11 +8,12 @@ const Home = () => {
   useEffect(() => {
     const options = {
       strings: [
-        "Welcome to my profile",
-        "My Name is Suraj Choudhary",
-        "I'm Front-end Developer",
-         "Data Science Enthusiast",
-        // "Androide Developer (React Native)",
+        "Welcome to my profile...",
+        "My Name is Suraj...",
+        "I'm a System Admin...",
+        "Linux Admin...",
+        "AI/ML Enthusiast...",
+        "Frontend Developer...",
       ],
       typeSpeed: 50,
       backSpeed: 50,
