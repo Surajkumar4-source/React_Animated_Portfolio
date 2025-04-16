@@ -56,11 +56,11 @@
     "imageSrc": "skills/tailwind.png"
   },
   {
-    "title": "python",
+    "title": "Python",
     "imageSrc": "skills/python.png"
   },
   {
-    "title": "Node",
+    "title": "Node Js",
     "imageSrc": "skills/node.png"
   },
   {
@@ -68,7 +68,7 @@
     "imageSrc": "skills/Jupyter.png"
   },
   {
-    "title": "Github",
+    "title": " Git & Github",
     "imageSrc": "skills/github3.png"
   }
 ]
