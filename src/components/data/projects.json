@@ -9,6 +9,22 @@
   },
   {
     "key": 2,
+    "title": "HPC Infrastructure Provisioning xCat",
+    "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmKceUxmtQd71rZyGYKOhLcIAYwdwRdzmd78CGbDFSOdRb1XxzfVY5-xzY&s=10",
+    "description": "xCAT  cluster management, automating server discovery, PXE booting, OS installation, and provisioning through unified management interfaces.",
+    "demo": "https://github.com/Surajkumar4-source/HPC_Infrastructure_Provisioning_xCat",
+    "source": "https://github.com/Surajkumar4-source/HPC_Infrastructure_Provisioning_xCat"
+  },
+  {
+    "key": 3,
+    "title": "GPT 1B From Scratch",
+    "imageSrc": "https://d3lkc3n5th01x7.cloudfront.net/wp-content/uploads/2023/02/06051541/How-to-Build-a-GPT-Model.png",
+    "description": "A complete 1B-parameter GPT implementation from scratch using PyTorch, DistributedDataParallel, Gradient Checkpointing, and 8× NVIDIA A100 GPUs.",
+    "demo": "https://surajkumar4-source.github.io/GPT-1B-From-Scratch/",
+    "source": "https://github.com/Surajkumar4-source/GPT-1B-From-Scratch"
+  },
+  {
+    "key": 4,
     "title": "Vehicle Detection",
     "imageSrc": "https://cdn.pixabay.com/photo/2022/05/22/11/10/highway-7213206_1280.jpg",
     "description": "Real-time vehicle detection, classification, tracking, and counting using YOLOv5.",
@@ -16,7 +32,7 @@
     "source": "https://github.com/Surajkumar4-source/Vehicle-Detection-and-Counting-System-using-YOLOv5-Deep-SORT-and-OpenCV"
   },
   {
-    "key": 3,
+    "key": 5,
     "title": "System Monitoring",
     "imageSrc": "https://cdn.pixabay.com/photo/2015/03/26/18/44/space-center-693251_1280.jpg",
     "description": "Real-time CPU, memory, and disk monitoring with interactive pie charts and log management.",
@@ -24,7 +40,7 @@
     "source": "https://github.com/Surajkumar4-source/System-Resource-Monitoring-Project"
   },
   {
-    "key": 4,
+    "key": 6,
     "title": "React Recipe WebApp",
     "imageSrc": "https://media.istockphoto.com/id/922783734/photo/assorted-indian-recipes-food-various.jpg?b=1&s=612x612&w=0&k=20&c=E3vvDbtewANz5LzhBrQn0raezKaATj6aeOPWlxYn4ZE=",
     "description": "This React Recipe App is designed to help users explore and discover various recipes.",
@@ -32,7 +48,7 @@
     "source": "https://github.com/Surajkumar4-source/React_Recipe_Website"
   },
   {
-    "key": 5,
+    "key": 7,
     "title": "CDAC CCEE Brainstorm Quiz",
     "imageSrc": "https://cdn.pixabay.com/photo/2016/05/05/05/58/quiz-1373314_1280.jpg",
     "description": "An interactive quiz app to help students prepare for CDAC CCEE exams efficiently.",
@@ -40,7 +56,7 @@
     "source": "https://github.com/Surajkumar4-source/CDAC-CCEE-Brainstorm-Quiz"
   },
   {
-    "key": 6,
+    "key": 8,
     "title": "CRUD App",
     "imageSrc": "https://www.codestoresolutions.com/wp-content/uploads/2023/08/crud.webp",
     "description": "This React CRUD (Create, Read, Update, Delete) is a simple web application for managing user data.",
@@ -48,7 +64,7 @@
     "source": "https://github.com/Surajkumar4-source/CRUD-APP"
   },
   {
-    "key": 7,
+    "key": 9,
     "title": "Paytm Clone",
     "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
     "description": "This is a Paytm UI Clone, a simple web application built to improve the responsiveness",
@@ -56,7 +72,7 @@
     "source": "https://github.com/Surajkumar4-source/Paytm-UI-Clone"
   },
   {
-    "key": 8,
+    "key": 10,
     "title": "IPL PREDICTION ANALYSIS",
     "imageSrc": "https://static.toiimg.com/thumb/msid-99118473,imgsize-145866,width-400,resizemode-4/99118473.jpg",
     "description": "This Project implements a simple IPL win prediction model using machine learning",
@@ -64,7 +80,7 @@
     "source": "https://github.com/Surajkumar4-source/IPL-PREDICTION-ANALYSIS"
   },
   {
-    "key": 9,
+    "key": 11,
     "title": "Inventory Billing System",
     "imageSrc": "https://c0.wallpaperflare.com/preview/954/332/891/pay-bill-invoice-template.jpg",
     "description": "This Project implements a fast and effective means to handle financial transactions, billing, and revenue",
@@ -72,7 +88,7 @@
     "source": "https://github.com/Surajkumar4-source/Product_Inventory_Billing_System"
   },
   {
-    "key": 10,
+    "key": 12,
     "title": "Static Gym Website",
     "imageSrc": "https://i.pinimg.com/736x/1b/a3/89/1ba389706684f84900f7cb4665508dab.jpg",
     "description": "This Project implements a simple website for a gym, where users can book classes, view the schedule.",
@@ -80,7 +96,7 @@
     "source": "https://github.com/Surajkumar4-source/Static-Gym-Website"
   },
   {
-    "key": 11,
+    "key": 13,
     "title": " Stock Price Predictor App",
     "imageSrc": "https://cdn.pixabay.com/photo/2016/12/13/22/15/chart-1905224_1280.jpg",
     "description": "This Project implement a real-time data delivers captivating insights into stock market trends.",
@@ -88,7 +104,7 @@
     "source": "https://github.com/Surajkumar4-source/Stock-Price-Predictor-App"
   },
   {
-    "key": 12,
+    "key": 14,
     "title": "Flipkart Clone",
     "imageSrc": "https://i.pinimg.com/originals/eb/9f/37/eb9f3772c2d90203412a221d6cf044b1.png",
     "description": "This Project implements a responsive design for the popular e-commerce website Flipkart",
@@ -96,7 +112,7 @@
     "source": "https://github.com/Surajkumar4-source/Flipkart-Clone"
   },
   {
-    "key": 13,
+    "key": 15,
     "title": "Weather web App",
     "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyncLqr8CUjxGDsSYKu_83WBtlfatfjt92EA&s",
     "description": "This Project implement a weather forecasting web app using the OpenWeather API",
@@ -104,7 +120,7 @@
     "source": "https://github.com/Surajkumar4-source/weather-web-App"
   },
   {
-    "key": 14,
+    "key": 16,
     "title": "Notes Collection WebApp",
     "imageSrc": "https://cdn.pixabay.com/photo/2017/05/12/08/29/coffee-2306471_1280.jpg",
     "description": "A web app for creating, editing, and managing formatted notes with images.",
@@ -112,7 +128,7 @@
     "source": "https://github.com/Surajkumar4-source/Notes-Collection-WebApp"
   },
   {
-    "key": 15,
+    "key": 17,
     "title": "React Password Generator",
     "imageSrc": "https://cdn.pixabay.com/photo/2014/11/01/18/22/privacy-policy-512760_1280.jpg",
     "description": "React app for generating secure passwords with customizable length, numbers, and characters.",
