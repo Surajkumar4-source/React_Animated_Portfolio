@@ -17,7 +17,7 @@
   },
   {
     "key": 3,
-    "title": "GPT 1B From Scratch",
+    "title": "GPT 1B Model Training From Scratch",
     "imageSrc": "https://d3lkc3n5th01x7.cloudfront.net/wp-content/uploads/2023/02/06051541/How-to-Build-a-GPT-Model.png",
     "description": "A complete 1B-parameter GPT implementation from scratch using PyTorch, DistributedDataParallel, Gradient Checkpointing, and 8× NVIDIA A100 GPUs.",
     "demo": "https://surajkumar4-source.github.io/GPT-1B-From-Scratch/",
