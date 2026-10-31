@@ -3,7 +3,7 @@
     "key": 1,
     "title": "HPC Node Failure Prediction & Prevention",
     "imageSrc": "https://media.istockphoto.com/id/1053151910/photo/access-servers-are-located-in-a-modern-data-center-powerful-computer-equipment-works-in-the.jpg?s=612x612&w=0&k=20&c=C7-1s3jU44y7RGFiuQzYHMjxnTx9wrW45V20_aBYJEs=",
-    "description": "AI-powered predictive maintenance system for HPC.",
+    "description": "AI-powered predictive maintenance system for HPC, monitoring performance, detecting anomalies, and forecasting hardware failures proactively.",
     "demo": "https://github.com/Surajkumar4-source/HPC-Node-Cluster-Failure-Prediction-With-Prevention-CDAC-Project",
     "source": "https://github.com/Surajkumar4-source/HPC-Node-Cluster-Failure-Prediction-With-Prevention-CDAC-Project"
   },
