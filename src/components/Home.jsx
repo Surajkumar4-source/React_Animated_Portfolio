@@ -70,10 +70,10 @@ const Home = () => {
       strings: [
         "Welcome to my profile...",
         "My Name is Suraj...",
-        "I'm a System Admin...",
+        "I'm a HPC-AI Engineer...",
         "Linux Admin...",
-        "AI/ML Enthusiast...",
-        "Frontend Developer...",
+        "Full-Stack Developer...",
+        "Cloud & Devops Enthusiast...",
       ],
       typeSpeed: 50,
       backSpeed: 30,
